@@ -1,227 +1,271 @@
-<!-- Banner -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=220&section=header&text=Nitin%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20and%20AI%20Engineer&descSize=22&descAlignY=60&animation=fadeIn" alt="Nitin Kumar banner" width="100%" />
+# Nitin Kumar
 
-<a href="https://github.com/nitin-code6">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=0EA5E9&center=true&vCenter=true&width=720&lines=MERN+Stack+%7C+Backend+Focus;RAG+and+LLM+Systems;Agentic+AI+and+MCP;C%2B%2B%2C+DSA+and+System+Design" alt="Typing animation" />
-</a>
+### Full-Stack and AI Engineer
 
-<br/>
+**I build backend-heavy products and AI systems that keep working when things fail.**
 
-<a href="https://nitincode.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PORTFOLIO-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/nitbit07"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:nitbit710@gmail.com"><img src="https://img.shields.io/badge/EMAIL-d14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://x.com/Nitin_5432"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+MERN &nbsp;|&nbsp; Python and FastAPI &nbsp;|&nbsp; RAG and LLM Systems &nbsp;|&nbsp; Distributed Backend Design &nbsp;|&nbsp; C++ and DSA
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge)](https://nitincode.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/nitbit07)
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge)](mailto:nitbit710@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge)](https://x.com/Nitin_5432)
 
 </div>
 
-<br/>
+---
 
-## About
+## At a Glance
 
-I build production-minded web applications and AI-powered tools, with a backend focus. My recent work centers on retrieval-augmented generation, agentic workflows, and reliable deployment of AI pipelines. I pair that with a strong foundation in data structures, algorithms, and object-oriented design, including a relational database engine built from scratch.
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><h2>282x</h2>API ingestion throughput gain after moving to an async queue (CodeArena)</td>
+    <td align="center" width="25%"><h2>108+</h2>Automated tests across SupportDesk and ReelFinder AI alone</td>
+    <td align="center" width="25%"><h2>4</h2>Live deployed applications you can open and try</td>
+    <td align="center" width="25%"><h2>700+</h2>Data structures and algorithms problems solved</td>
+  </tr>
+</table>
+
+> [!NOTE]
+> **Open to full-stack and applied AI roles.** I am strongest where backend engineering meets AI: reliable pipelines, queues and events, LLM fallbacks, and measurable performance work.
+
+---
+
+## What I Bring
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
-**Currently working on**
-- ReelFinder AI, SupportDesk, and BatteryLife AI
-- RAG pipelines and LLM-powered tooling
+**Backend and distributed systems**
 
-**Currently learning**
-- System design and MCP
-- Agentic AI workflows
-- CI/CD
+Queue and event-driven design with Bull, Redis, and Kafka. Idempotent APIs, rate limiting, circuit breakers, and JWT security. Load testing to prove results.
 
   </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
 
-**Open to**
-- Collaborating on AI and LLM projects, especially RAG and data-driven tools
-- Full-stack and applied AI roles
+**Applied AI**
 
-**Looking for help with**
-- Scaling AI pipelines
-- Deploying them reliably
+RAG with pgvector, multi-provider LLM routing with failover, PII scrubbing, and pipelines where models handle judgment and code enforces the rules.
+
+  </td>
+    <td width="33%" valign="top">
+
+**Engineering fundamentals**
+
+C++, data structures and algorithms, OOP, SOLID, and design patterns. Documentation of trade-offs, limits, and test coverage on every major project.
 
   </td>
   </tr>
 </table>
 
-<br/>
-
-## Portfolio
-
-<div align="center">
-
-<a href="https://nitincode.vercel.app/">
-  <img src="https://img.shields.io/badge/nitincode.vercel.app-Visit%20my%20portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio" />
-</a>
-
-A personal portfolio presenting my projects, technical skills, experience, and journey as a software developer.<br/>
-Source: [nitin-code6/nitin-portfolio](https://github.com/nitin-code6/nitin-portfolio)
-
-</div>
-
-<br/>
+---
 
 ## Featured Projects
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/nitin-code6/BatteryLife-AI">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=nitin-code6&repo=BatteryLife-AI&theme=tokyonight&hide_border=true" alt="BatteryLife AI" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/nitin-code6/SupportDesk">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=nitin-code6&repo=SupportDesk&theme=tokyonight&hide_border=true" alt="SupportDesk" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/nitin-code6/reelfinder-ai">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=nitin-code6&repo=reelfinder-ai&theme=tokyonight&hide_border=true" alt="ReelFinder AI" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nitin-code6/cognivault">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=nitin-code6&repo=cognivault&theme=tokyonight&hide_border=true" alt="CogniVault" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/nitin-code6/ferryflow">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=nitin-code6&repo=ferryflow&theme=tokyonight&hide_border=true" alt="FerryFlow" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/nitin-code6/codearena">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=nitin-code6&repo=codearena&theme=tokyonight&hide_border=true" alt="CodeArena" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | What it does | Standout detail | Links |
+| :--- | :--- | :--- | :--- |
+| **CodeArena** | Online judge plus developer social platform | Async submissions: 4,748 ms down to 176 ms, 0.2 to 56.4 req/s | [Code](https://github.com/nitin-code6/codearena) |
+| **SupportDesk** | Support triage and escalation platform | Multi-provider AI with deterministic fallback, 22 tests | [Code](https://github.com/nitin-code6/SupportDesk) / [Live](https://supportdesk-frontend-ecgs.onrender.com/) |
+| **ReelFinder AI** | Finds and ranks promo clips in screenplays | LLM judges, code enforces bounds, 86 tests | [Code](https://github.com/nitin-code6/reelfinder-ai) / [Live](https://reelfinder-frontend.onrender.com/) |
+| **BatteryLife AI** | EV battery health and degradation modeling | LSTM-VAE with hybrid anomaly scoring, 3-tier stack | [Code](https://github.com/nitin-code6/BatteryLife-AI) |
+| **FerryFlow** | Real-time ferry booking and operations | Atomic seat locking, Redis refresh tokens, Razorpay | [Code](https://github.com/nitin-code6/ferryflow) / [Live](https://ferryflow.netlify.app/) |
+| **CogniVault** | Document Q&A over PDFs with RAG | LLM query router, pgvector retrieval, eval script | [Code](https://github.com/nitin-code6/cognivault) |
 
-<details>
-<summary><b>AI and LLM Systems</b></summary>
+Detailed case studies below. Expand any project for the problem, approach, and engineering decisions.
+
 <br/>
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [BatteryLife AI](https://github.com/nitin-code6/BatteryLife-AI) | EV battery health platform that models degradation with an LSTM-VAE, generates synthetic aging trajectories, detects anomalies, estimates State of Health, and predicts remaining useful life. | TypeScript, Machine Learning |
-| [SupportDesk](https://github.com/nitin-code6/SupportDesk) | Support operations platform for ticket management, issue investigation assistance, and engineering escalations. | TypeScript |
-| [ReelFinder AI](https://github.com/nitin-code6/reelfinder-ai) | Ranks 20 to 60 second promotional moments in microdrama screenplays by hooks, twists, and cliffhangers, with episode references and timestamps. | Python |
-| [CogniVault](https://github.com/nitin-code6/cognivault) | Enterprise GenAI platform with RAG, semantic search, LLM agents, tool calling, citations, evaluation, and guardrails. | JavaScript |
-| [DocuLens](https://github.com/nitin-code6/DocuLens) | RAG document analyzer for ingestion, semantic search, and context-aware question answering. | RAG, LLMs |
-| [LearnFlow MCP](https://github.com/nitin-code6/LearnFlow-MCP) | Moodle-style LMS with a separate FastMCP server for AI-powered interaction. | React, Node.js, PostgreSQL, Docker, FastMCP |
-| [RAG Debugging Lab](https://github.com/nitin-code6/RAG-Debugging-Lab) | Progressive lab of intentionally broken RAG pipelines with automated tests. | Python |
+<details open>
+<summary><h3>CodeArena: asynchronous online judge and developer platform</h3></summary>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Bull Queue](https://img.shields.io/badge/Bull_Queue-D9381E?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![SSE](https://img.shields.io/badge/SSE-0EA5E9?style=flat-square) ![Judge0](https://img.shields.io/badge/Judge0-1F2937?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square)
+
+[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/codearena)
+
+**Problem.** Running user code through an external sandbox inside the HTTP request kept each submission open for several seconds, limiting throughput and slowing unrelated API traffic.
+
+**Approach.** Separated request ingestion from execution. Submissions are validated, deduplicated, and queued, and the API returns `202 Accepted` while workers run the code. Social actions flow through Kafka to independent consumers, and a dedicated service delivers notifications over Server-Sent Events.
+
+**Engineering highlights**
+- Bull and Redis queue with idempotency keys, SHA-256 payload conflict detection, exponential backoff retries, and bounded worker concurrency
+- Kafka pipeline with separate feed and notification consumer groups
+- Atomic Redis Lua scripts for rate limiting and vote state, plus a Redis JWT revocation blocklist
+- Circuit breakers around Judge0 and Gemini, with a resilience test suite
+- Sandboxed execution for C++, Java, and JavaScript, and an AI assistant that gives hints without full solutions
+
+**Measured result** (autocannon, submission endpoint)
+
+| Metric | Synchronous baseline | Asynchronous design |
+| :--- | ---: | ---: |
+| Throughput | 0.2 req/s | **56.4 req/s** |
+| Request latency | 4,748 ms | **175.93 ms** |
+
+> [!NOTE]
+> This is an API ingestion improvement (about 282x). Code execution still takes seconds in the background. The repository documents its own limits, including in-memory SSE state and a single Kafka partition.
 
 </details>
 
 <details>
-<summary><b>Full-Stack Applications</b></summary>
-<br/>
+<summary><h3>SupportDesk: support operations and diagnostic platform</h3></summary>
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [FerryFlow](https://github.com/nitin-code6/ferryflow) ([Live](https://ferryflow.netlify.app)) | Real-time ferry operations and passenger management system. | MongoDB, Express, React, Node.js |
-| [CodeArena](https://github.com/nitin-code6/codearena) | LeetCode-inspired coding platform with authentication, problem management, and real-time code execution. | JavaScript, Full Stack |
-| [DevConnector](https://github.com/nitin-code6/devconnector) | Developer networking platform with profiles, posts, and JWT authentication. | React, Node.js, Express, MongoDB |
-| [Dialysis Session Dashboard](https://github.com/nitin-code6/dialysis-session-dashboard) | Session tracking and anomaly detection for patient monitoring. | JavaScript |
-| [OS Visualizer](https://github.com/nitin-code6/OS-VISUALIZER) ([Live](https://cpulab.vercel.app)) | CPU scheduling simulator comparing Round Robin, SJF, and FCFS with real-time Gantt charts. | JavaScript |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/SupportDesk)
+[![Live App](https://img.shields.io/badge/Live_App-0ea5e9?style=for-the-badge)](https://supportdesk-frontend-ecgs.onrender.com/)
+[![API Docs](https://img.shields.io/badge/API_Docs-009688?style=for-the-badge)](https://supportdesk-backend-ypdr.onrender.com/docs)
+
+**Problem.** In a case-study dataset of 1,444 tickets, one third were escalated to engineering and about 36% of those bounced back for configuration errors or missing information. Bounced tickets took roughly 7x longer to resolve, and customer satisfaction fell from 4.01 to 2.43 out of 5.
+
+**Approach.** A diagnostic workbench for first-line agents: category-specific checklists, an Escalation Quality Gate that requires a complete handoff, a direct resolution workflow, and analytics on escalation variance across agents.
+
+**Engineering highlights**
+- AI triage copilot rotating between Gemini and Groq, with in-memory PII scrubbing before any request leaves the system
+- Failover to the second provider and then to a deterministic rule engine, so the product works with no AI keys configured
+- Optimistic concurrency locking, audit logs, and a documented PostgreSQL schema and indexing strategy
+- 22 automated tests, including golden-dataset invariants and chaos tests for provider failure
+- Deployed on Render with static site, Docker service, and managed PostgreSQL
 
 </details>
 
 <details>
-<summary><b>Systems, C++ and Low-Level Design</b></summary>
-<br/>
+<summary><h3>ReelFinder AI: promo discovery for microdrama screenplays</h3></summary>
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [NovaDB Engine](https://github.com/nitin-code6/novadb-engine) | Relational database engine built from scratch with block-level storage and B+ tree indexing. | Systems Programming |
-| [AlgoCore](https://github.com/nitin-code6/AlgoCore) | Modular DSA library with core data structures, algorithms, and an interactive CLI. | C++ |
-| [ParkingLotManager](https://github.com/nitin-code6/ParkingLotManager) | Parking lot simulation with polymorphic pricing, ticketing, and slot management. | C++, OOP |
-| [FoodCart LLD](https://github.com/nitin-code6/foodcart-lld) | Food delivery system design using Strategy, Factory, and Singleton patterns. | C++, STL |
-| [DocumentEditor](https://github.com/nitin-code6/DocumentEditor) | Mini document editor applying SOLID principles and design patterns step by step. | C++ |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/reelfinder-ai)
+[![Live App](https://img.shields.io/badge/Live_App-0ea5e9?style=for-the-badge)](https://reelfinder-frontend.onrender.com/)
+[![API Docs](https://img.shields.io/badge/API_Docs-009688?style=for-the-badge)](https://reelfinder-backend.onrender.com/docs)
+
+**Problem.** Editors watch every episode to find 20 to 60 second moments that work as social ads. A good clip needs a strong hook, a cut at an unresolved peak, and enough context for a new viewer. Built for an AI generalist assignment.
+
+**Approach.** Split responsibilities on purpose: the LLM judges narrative quality, and deterministic code enforces what LLMs are unreliable at.
+
+| Task | LLM | Deterministic code |
+| :--- | :--- | :--- |
+| Narrative comprehension | Judges stakes, curiosity gaps, tension | None |
+| Timecodes and bounds | Proposes candidate anchors | Enforces 20 to 60 second limits and source grounding; rejects invented timestamps |
+| Deduplication | Identifies themes | Temporal overlap and similarity thresholds |
+| Ranking | Scores raw qualitative factors | Weighted 0 to 100 composite of hook, cliffhanger, clarity, impact, continuity |
+
+**Engineering highlights**
+- Screenplay parser (regex state machine, PDF support) feeding a three-tier chain: Groq, then Gemini, then a heuristic fallback
+- Human-in-the-loop review station with CSV and JSON export
+- 86 automated tests, a reconciliation audit between database and exports, and a batch evaluation script
+- Honest documentation of limitations and of where AI tools were used
 
 </details>
 
-<br/>
+<details>
+<summary><h3>BatteryLife AI: EV battery health and degradation modeling</h3></summary>
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/BatteryLife-AI)
+
+**Problem.** Estimating battery State of Health and remaining life from raw cycling telemetry, and spotting abnormal cells early.
+
+**Approach.** An LSTM Variational Autoencoder learns a latent representation of degradation. That latent space powers anomaly scoring, synthetic degradation generation, and health reports.
+
+**Engineering highlights**
+- Three tiers: Next.js dashboard, Express and TypeScript gateway with JWT and experiment tracking, and a FastAPI and PyTorch AI engine
+- ETL for NASA (`.mat`) and CALCE (Excel) datasets, recovering missing capacity by numerically integrating current
+- Hybrid anomaly score combining reconstruction error with latent distance (Mahalanobis and Euclidean)
+- PCA and t-SNE latent views, drift analysis, and SOH, remaining-life, and maintenance reports
+- One-command Docker Compose stack, CI workflow, and API and architecture docs
+
+</details>
+
+<details>
+<summary><h3>FerryFlow: real-time ferry operations and booking</h3></summary>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/ferryflow)
+[![Live App](https://img.shields.io/badge/Live_App-0ea5e9?style=for-the-badge)](https://ferryflow.netlify.app/)
+
+**Engineering highlights**
+- Role-based access for admin, staff, and passengers
+- Seat booking that prevents double reservation with atomic MongoDB operations, plus Socket.IO broadcasts to keep clients in sync
+- Dual-token auth: short-lived access tokens and Redis-backed refresh tokens in HttpOnly cookies, with Google sign-in and email OTP
+- Redis-backed rate limiting on auth routes and Zod validation on request bodies
+- Razorpay payments with server-side signature verification and reconciliation when a user abandons checkout
+- Playwright end-to-end tests for booking and authentication
+
+</details>
+
+<details>
+<summary><h3>CogniVault: multi-project document question answering</h3></summary>
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/cognivault)
+
+**Approach.** PDFs are chunked (500 characters, 50 overlap), embedded, and stored in PostgreSQL with pgvector. An LLM router decides whether a query needs retrieval, a tool call, or a direct answer, and retrieved chunks ground the Gemini response.
+
+**Engineering highlights**
+- Node.js gateway with input guardrails, separated from a Python and FastAPI AI service
+- Cosine-similarity retrieval (top 3 chunks) inside PostgreSQL, avoiding a separate vector database at this scale
+- Automated evaluation script for relevance and faithfulness, pytest unit tests, and Docker Compose setup
+- Documented limits: PDF only, fixed-size chunking, string-match injection guardrails. Source citations and streaming are in progress
+
+</details>
+
+---
+
+## More Projects
+
+| Project | Description | Status |
+| :--- | :--- | :--- |
+| [DevConnector](https://github.com/nitin-code6/devconnector) | Developer networking platform with profiles, posts, and JWT auth | Complete |
+| [OS Visualizer](https://github.com/nitin-code6/OS-VISUALIZER) ([live](https://cpulab.vercel.app)) | CPU scheduling simulator with Round Robin, SJF, FCFS, and live Gantt charts | Complete |
+| [Dialysis Session Dashboard](https://github.com/nitin-code6/dialysis-session-dashboard) | Patient session tracking with anomaly detection | Complete |
+| [AlgoCore](https://github.com/nitin-code6/AlgoCore) | Modular C++ DSA library with an interactive CLI | Complete |
+| [ParkingLotManager](https://github.com/nitin-code6/ParkingLotManager) | C++ low-level design with polymorphic pricing and slot management | Complete |
+| [DocumentEditor](https://github.com/nitin-code6/DocumentEditor) | C++ editor built to practice SOLID and design patterns | Complete |
+| [LearnFlow MCP](https://github.com/nitin-code6/LearnFlow-MCP) | Moodle-style LMS; Prisma and a FastMCP server are planned | In progress |
+| [DocuLens](https://github.com/nitin-code6/DocuLens) | RAG document analyzer | In progress |
+| [RAG Debugging Lab](https://github.com/nitin-code6/RAG-Debugging-Lab) | Intentionally broken RAG pipelines for practice | In progress |
+
+---
 
 ## Tech Stack
 
-<div align="center">
+**Languages** &nbsp; ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,py,js,ts,html,css&theme=dark" alt="Languages" />
+**Frontend** &nbsp; ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,vite&theme=dark" alt="Frontend" />
+**Backend** &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark" alt="Backend" />
+**Data and messaging** &nbsp; ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,redis&theme=dark" alt="Databases" />
+**AI** &nbsp; ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-111827?style=flat-square)
 
-**AI and Data**<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,pandas,numpy&theme=dark" alt="AI and Data" />
+**DevOps and testing** &nbsp; ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=black)
 
-**DevOps and Testing**<br/>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,gcp,vercel,netlify,jest,playwright&theme=dark" alt="DevOps and Testing" />
+---
 
-</div>
+## How I Work
 
-<br/>
+- **Design for failure.** Fallback providers, circuit breakers, idempotent endpoints, and graceful degradation come before polish.
+- **Let code do what code is good at.** In AI features, models handle judgment and deterministic logic enforces constraints.
+- **Measure, then claim.** I benchmark changes and document limitations next to results.
+- **Document decisions.** Projects ship with architecture notes, trade-offs, and test documentation.
 
-Also: RAG, embeddings and vector search, MCP, Socket.IO, JWT authentication, Data Structures and Algorithms, OOP, SOLID, design patterns, low-level design, and system design.
+Currently learning system design, MCP, agentic AI workflows, and CI/CD. Outside of coding, I play chess and cricket.
 
-<br/>
-
-## Highlights
-
-<table>
-  <tr>
-    <td align="center" width="25%"><h3>700+</h3>DSA problems solved</td>
-    <td align="center" width="25%"><h3>22</h3>Public repositories</td>
-    <td align="center" width="25%"><h3>7</h3>AI and RAG projects</td>
-    <td align="center" width="25%"><h3>1</h3>Database engine built from scratch</td>
-  </tr>
-</table>
-
-Outside of coding, I play chess and cricket.
-
-<br/>
-
-## GitHub Activity
+---
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.shion.dev/api?username=nitin-code6&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nitin-code6&theme=tokyonight&hide_border=true&layout=compact" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com/?user=nitin-code6&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-
-</div>
-
-<br/>
-
-## Contact
-
-<div align="center">
+## Let's Connect
 
 Open to opportunities and collaborations in full-stack development and applied AI.
 
-<a href="https://nitincode.vercel.app/">Portfolio</a> &nbsp;|&nbsp;
-<a href="https://linkedin.com/in/nitbit07">LinkedIn</a> &nbsp;|&nbsp;
-<a href="mailto:nitbit710@gmail.com">nitbit710@gmail.com</a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0ea5e9&height=110&section=footer" alt="Footer" width="100%" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge)](https://nitincode.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/nitbit07)
+[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge)](mailto:nitbit710@gmail.com)
 
 </div>
