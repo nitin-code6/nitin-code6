@@ -1,17 +1,17 @@
 <div align="center">
 
-# Nitin Kumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1c3f,50:1e3a6e,100:2b5797&height=190&section=header&text=Nitin%20Kumar&fontSize=48&fontColor=eaf2fb&animation=fadeIn&fontAlignY=36" width="100%" alt="Nitin Kumar" />
 
-### Full-Stack and AI Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1500&color=5B9BD5&center=true&vCenter=true&width=600&height=45&lines=Backend+Engineer;AI+Engineer;Full-Stack+Developer;Building+systems+that+handle+failure" alt="Backend Engineer, AI Engineer, Full-Stack Developer" />
 
 **I build backend-heavy products and AI systems that keep working when things fail.**
 
 MERN &nbsp;|&nbsp; Python and FastAPI &nbsp;|&nbsp; RAG and LLM Systems &nbsp;|&nbsp; Distributed Backend Design &nbsp;|&nbsp; C++ and DSA
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge)](https://nitincode.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/nitbit07)
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge)](mailto:nitbit710@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge)](https://x.com/Nitin_5432)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2b5797?style=for-the-badge)](https://nitincode.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3a6ea5?style=for-the-badge)](https://linkedin.com/in/nitbit07)
+[![Email](https://img.shields.io/badge/Email-5288bd?style=for-the-badge)](mailto:nitbit710@gmail.com)
+[![X](https://img.shields.io/badge/X-1e3a6e?style=for-the-badge)](https://x.com/Nitin_5432)
 
 </div>
 
@@ -83,7 +83,7 @@ Detailed case studies below. Expand any project for the problem, approach, and e
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Bull Queue](https://img.shields.io/badge/Bull_Queue-D9381E?style=flat-square) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![SSE](https://img.shields.io/badge/SSE-0EA5E9?style=flat-square) ![Judge0](https://img.shields.io/badge/Judge0-1F2937?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square)
 
-[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/codearena)
+[![Source](https://img.shields.io/badge/Source-1e3a6e?style=for-the-badge)](https://github.com/nitin-code6/codearena)
 
 **Problem.** Running user code through an external sandbox inside the HTTP request kept each submission open for several seconds, limiting throughput and slowing unrelated API traffic.
 
@@ -113,9 +113,9 @@ Detailed case studies below. Expand any project for the problem, approach, and e
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/SupportDesk)
-[![Live App](https://img.shields.io/badge/Live_App-0ea5e9?style=for-the-badge)](https://supportdesk-frontend-ecgs.onrender.com/)
-[![API Docs](https://img.shields.io/badge/API_Docs-009688?style=for-the-badge)](https://supportdesk-backend-ypdr.onrender.com/docs)
+[![Source](https://img.shields.io/badge/Source-1e3a6e?style=for-the-badge)](https://github.com/nitin-code6/SupportDesk)
+[![Live App](https://img.shields.io/badge/Live_App-3a6ea5?style=for-the-badge)](https://supportdesk-frontend-ecgs.onrender.com/)
+[![API Docs](https://img.shields.io/badge/API_Docs-5288bd?style=for-the-badge)](https://supportdesk-backend-ypdr.onrender.com/docs)
 
 **Problem.** In a case-study dataset of 1,444 tickets, one third were escalated to engineering and about 36% of those bounced back for configuration errors or missing information. Bounced tickets took roughly 7x longer to resolve, and customer satisfaction fell from 4.01 to 2.43 out of 5.
 
@@ -135,9 +135,9 @@ Detailed case studies below. Expand any project for the problem, approach, and e
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/reelfinder-ai)
-[![Live App](https://img.shields.io/badge/Live_App-0ea5e9?style=for-the-badge)](https://reelfinder-frontend.onrender.com/)
-[![API Docs](https://img.shields.io/badge/API_Docs-009688?style=for-the-badge)](https://reelfinder-backend.onrender.com/docs)
+[![Source](https://img.shields.io/badge/Source-1e3a6e?style=for-the-badge)](https://github.com/nitin-code6/reelfinder-ai)
+[![Live App](https://img.shields.io/badge/Live_App-3a6ea5?style=for-the-badge)](https://reelfinder-frontend.onrender.com/)
+[![API Docs](https://img.shields.io/badge/API_Docs-5288bd?style=for-the-badge)](https://reelfinder-backend.onrender.com/docs)
 
 **Problem.** Editors watch every episode to find 20 to 60 second moments that work as social ads. A good clip needs a strong hook, a cut at an unresolved peak, and enough context for a new viewer. Built for an AI generalist assignment.
 
@@ -163,7 +163,7 @@ Detailed case studies below. Expand any project for the problem, approach, and e
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/BatteryLife-AI)
+[![Source](https://img.shields.io/badge/Source-1e3a6e?style=for-the-badge)](https://github.com/nitin-code6/BatteryLife-AI)
 
 **Problem.** Estimating battery State of Health and remaining life from raw cycling telemetry, and spotting abnormal cells early.
 
@@ -183,8 +183,8 @@ Detailed case studies below. Expand any project for the problem, approach, and e
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white) ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=flat-square) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/ferryflow)
-[![Live App](https://img.shields.io/badge/Live_App-0ea5e9?style=for-the-badge)](https://ferryflow.netlify.app/)
+[![Source](https://img.shields.io/badge/Source-1e3a6e?style=for-the-badge)](https://github.com/nitin-code6/ferryflow)
+[![Live App](https://img.shields.io/badge/Live_App-3a6ea5?style=for-the-badge)](https://ferryflow.netlify.app/)
 
 **Engineering highlights**
 - Role-based access for admin, staff, and passengers
@@ -201,7 +201,7 @@ Detailed case studies below. Expand any project for the problem, approach, and e
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-[![Source](https://img.shields.io/badge/Source-0f172a?style=for-the-badge)](https://github.com/nitin-code6/cognivault)
+[![Source](https://img.shields.io/badge/Source-1e3a6e?style=for-the-badge)](https://github.com/nitin-code6/cognivault)
 
 **Approach.** PDFs are chunked (500 characters, 50 overlap), embedded, and stored in PostgreSQL with pgvector. An LLM router decides whether a query needs retrieval, a tool call, or a direct answer, and retrieved chunks ground the Gemini response.
 
@@ -264,8 +264,10 @@ Currently learning system design, MCP, agentic AI workflows, and CI/CD. Outside 
 
 Open to opportunities and collaborations in full-stack development and applied AI.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge)](https://nitincode.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://linkedin.com/in/nitbit07)
-[![Email](https://img.shields.io/badge/Email-d14836?style=for-the-badge)](mailto:nitbit710@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2b5797?style=for-the-badge)](https://nitincode.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-3a6ea5?style=for-the-badge)](https://linkedin.com/in/nitbit07)
+[![Email](https://img.shields.io/badge/Email-5288bd?style=for-the-badge)](mailto:nitbit710@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f1c3f,50:1e3a6e,100:2b5797&height=110&section=footer" width="100%" alt="" />
 
 </div>
