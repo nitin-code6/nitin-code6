@@ -67,6 +67,9 @@ C++, data structures and algorithms, OOP, SOLID, and design patterns. Documentat
 
 | Project | What it does | Standout detail | Links |
 | :--- | :--- | :--- | :--- |
+| **Rentora** | Real-time property rental & maintenance ecosystem | Double-buffered booking engine, SLA metrics, WebSocket chat | [Code](https://github.com/nitin-code6/rentora) / [Live](https://rentora231.netlify.app/) |
+| **CampusBaazar** | High-concurrency campus student marketplace | Multi-college segregation, seller approval workflow, Redis caching | [Code](https://github.com/nitin-code6/CampusBaazar) |
+| **TruckHub** | Smart freight dispatch, telematics & fleet tracking | Live GPS tracking, IoT telematics, route optimization | [Code](https://github.com/nitin-code6/TruckHub) |
 | **CodeArena** | Online judge plus developer social platform | Async submissions: 4,748 ms down to 176 ms, 0.2 to 56.4 req/s | [Code](https://github.com/nitin-code6/codearena) |
 | **SupportDesk** | Support triage and escalation platform | Multi-provider AI with deterministic fallback, 22 tests | [Code](https://github.com/nitin-code6/SupportDesk) / [Live](https://supportdesk-frontend-ecgs.onrender.com/) |
 | **ReelFinder AI** | Finds and ranks promo clips in screenplays | LLM judges, code enforces bounds, 86 tests | [Code](https://github.com/nitin-code6/reelfinder-ai) / [Live](https://reelfinder-frontend.onrender.com/) |
@@ -255,6 +258,26 @@ Detailed case studies below. Expand any project for the problem, approach, and e
 - **Document decisions.** Projects ship with architecture notes, trade-offs, and test documentation.
 
 Currently learning system design, MCP, agentic AI workflows, and CI/CD. Outside of coding, I play chess and cricket.
+
+---
+
+## ⚡ Activity & Contribution Arcade
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nitin-code6/nitin-code6/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nitin-code6/nitin-code6/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/nitin-code6/nitin-code6/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
+
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nitin-code6&theme=tokyonight&hide_border=true&border_radius=8)](https://git.io/streak-stats)
+&nbsp;
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nitin-code6&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
